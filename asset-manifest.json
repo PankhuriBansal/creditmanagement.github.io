@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/creditmanagement.github.io/static/css/main.ba41e3c0.chunk.css",
+    "main.js": "/creditmanagement.github.io/static/js/main.7fb39e50.chunk.js",
+    "main.js.map": "/creditmanagement.github.io/static/js/main.7fb39e50.chunk.js.map",
+    "runtime-main.js": "/creditmanagement.github.io/static/js/runtime-main.9be4344a.js",
+    "runtime-main.js.map": "/creditmanagement.github.io/static/js/runtime-main.9be4344a.js.map",
+    "static/js/2.e9423d7f.chunk.js": "/creditmanagement.github.io/static/js/2.e9423d7f.chunk.js",
+    "static/js/2.e9423d7f.chunk.js.map": "/creditmanagement.github.io/static/js/2.e9423d7f.chunk.js.map",
+    "index.html": "/creditmanagement.github.io/index.html",
+    "precache-manifest.5f03103f9d4f2a9b2bd48215d2b11a20.js": "/creditmanagement.github.io/precache-manifest.5f03103f9d4f2a9b2bd48215d2b11a20.js",
+    "service-worker.js": "/creditmanagement.github.io/service-worker.js",
+    "static/css/main.ba41e3c0.chunk.css.map": "/creditmanagement.github.io/static/css/main.ba41e3c0.chunk.css.map",
+    "static/js/2.e9423d7f.chunk.js.LICENSE.txt": "/creditmanagement.github.io/static/js/2.e9423d7f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/creditmanagement.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9be4344a.js",
+    "static/js/2.e9423d7f.chunk.js",
+    "static/css/main.ba41e3c0.chunk.css",
+    "static/js/main.7fb39e50.chunk.js"
+  ]
+}
